@@ -11,32 +11,32 @@
 		<link rel='stylesheet' href='css/normalize.css' type='text/css'>
 		<link href="css/rb_v2.css" rel="stylesheet" media="screen">
 		<style>
-		.testimonial{ 
+		.testimonial{
 			width: 200px;
 			display: block;
 			/*color: black !important;
 			text-decoration: none !important;*/
 			text-align: center;
 			margin: 0 auto;
-		} 
+		}
 		</style>
 		<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){		  
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),		  
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)		  
-		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');		  
-		ga('create', 'UA-90619489-1', 'auto');		  
-		ga('send', 'pageview');		
-		</script>				
-		
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-90619489-1', 'auto');
+		ga('send', 'pageview');
+		</script>
+
 	</head>
 	<body>
-		
-		<br/>				
+
+		<br/>
 		<div class="container">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-2 text-center">												
+					<div class="col-md-2 text-center">
 						<img class="img-responsive img-rounded" src="img/rb.JPG" style="width:200px" alt="Rahul Bhola" />
 					</div>
 					<div class="col-md-10">
@@ -44,9 +44,9 @@
 						<p id="about">Experience of both product and services based environment. Result oriented, assertive, and flexible to adopt changes; a good team worker, self motivated, innovative and believe in enjoying work</p>
 					</div>
 				</div>
-				<br/>												
+				<br/>
 				<div class="row">
-					<!-- personal -->										
+					<!-- personal -->
 					<div class="col-md-6 first-column">
 						<div class="panel panel-default" id="personal-info">
 							<div class="panel-heading"><i class="fa fa-user-secret"></i> Personal Info</div>
@@ -62,7 +62,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- contact -->										
+					<!-- contact -->
 					<div class="col-md-6 second-column">
 						<div class="panel panel-default" id="contact-info">
 							<div class="panel-heading"><i class="fa fa-user-plus"></i> Contact Info</div>
@@ -70,7 +70,7 @@
 								<div class="col-md-6"><strong>Email</strong></div>
 								<div class="col-md-6">rahulbhola.91@gmail.com</div>
 								<div class="col-md-6"><strong>Phone</strong></div>
-								<div class="col-md-6">+91 90 23 852200</div> 
+								<div class="col-md-6">+91 90 23 852200</div>
 								<div class="col-md-6"><strong>Get Connected</strong></div>
 								<div class="col-md-6"><a alt="Linked-In" target="blank" href="https://in.linkedin.com/in/rahul-bhola-4bbb2b1a"><i class="fa fa-linkedin-square"style="font-size:1.5em"></i> rahul-bhola-4bbb2b1a </a></div>
 								<div class="col-md-6"><strong>Address</strong></div>
@@ -84,40 +84,40 @@
 							</div>
 						</div>
 					</div>
-					<!-- education -->										
+					<!-- education -->
 					<div class="col-md-6 first-column">
 						<div class="panel panel-default" id="education">
 							<div class="panel-heading"><i class="fa fa-graduation-cap"></i> Education</div>
 							<div class="panel-body">
-								<p>																		
+								<p>
 									<strong> All India Higher Secondary Examination <small>( 2006-2007 )</small>
 									</strong>
-								</p>										
+								</p>
 								<p>
 									Gian Jyoti Public School (CBSE)<span class="pull-right text-right">79.20 %</span>
 								</p>
-								<p>																		
+								<p>
 									<strong> Pre-Engineering <small>( 2008-2009 )</small>
-									</strong>		
+									</strong>
 								</p>
 								<p>
 									Shivalik Public School (CBSE)<span class="pull-right text-right">79.00 %</span>
 								</p>
-								<p>																		
+								<p>
 									<strong> BE - Computer Science <small>( 2009-2013 )</small></strong>
-								</p>								
+								</p>
 								<p>
 									Chitkara University <span class="pull-right text-right">7.92 CGPA</span>
-								</p>														
+								</p>
 							</div>
 						</div>
 					</div>
-					<!-- internships -->										
+					<!-- internships -->
 					<div class="col-md-6 second-column">
 						<div class="panel panel-default" id="internships">
 							<div class="panel-heading"><i class="fa fa-wrench"></i> Internship</div>
 							<div class="panel-body">
-								<strong> <a href="http://www.xlpat.com/" target="_blank">XLPAT - TT Consultants</a> <small>( October 2012 - May 2013 )</small></strong>																
+								<strong> <a href="http://www.xlpat.com/" target="_blank">XLPAT - TT Consultants</a> <small>( October 2012 - May 2013 )</small></strong>
 								<ul>
 									<li>Highlighting and saving annotations on patent documents. </li>
 									<li>Printing/Exporting of text from database with saved highlighting and annotations. </li>
@@ -126,7 +126,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- job1 -->										
+					<!-- job1 -->
 					<div class="col-md-6 first-column">
 						<div class="panel panel-default" id="job1">
 							<div class="panel-heading"><i class="fa fa-briefcase"></i> Work Experience @ <a href="http://www.xlpat.com/" style="color:white;text-decoration:underline;" target="_blank">XLPAT - TT Consultants</a><br/><small>( June 2013 - December 2014 )</small></div>
@@ -145,17 +145,17 @@
 							</div>
 						</div>
 					</div>
-					<!-- job2 -->										
+					<!-- job2 -->
 					<div class="col-md-6 second-column">
 						<div class="panel panel-default" id="job1">
 							<div class="panel-heading"><i class="fa fa-briefcase"></i> Work Experience @ <a href="https://www.softprodigy.com/" style="color:white;text-decoration:underline;" target="_blank">SoftProdigy</a><br/><small>( December 2014 - Present )</small></div>
 							<div class="panel-body">
-								<ul> 
+								<ul>
 									<li>In initial 1 year, I contributed to deploy 3 projects in Cake PHP 2.x</li>
 									<li>In another 6 months, I contributed to deploy 2 projects in Cake PHP 3.x and 1 project in Wordpress and Shopify each.</li>
 									<li>Since July 2016, working on enhancements to an ecommerce website built upon Ruby on Rails framework.</li>
 								</ul>
-								
+
 								<hr>
 								<center><h4>Got double promotion w.e.f. 16 April, 2017</h4></center>
 								<ul>
@@ -163,25 +163,26 @@
 									<li>Involved in Project Management and Resource Planning.</li>
 									<li>Doing projects in Blockchain.</li>
 									<li>Published reusable components for <a target="_blank" href="https://npmjs.com/~rahul_softprodigy">Nodejs</a> and <a href="https://rubygems.org/profiles/rahulsps" target="_blank">Ruby on Rails</a>.</li>
+									<li>Working on django</li>
 								</ul>
-								<!-- 
+								<!--
 								<a class="testimonial" href="https://www.dropbox.com/s/8bt0u0i6228yi4z/JHicks%20Rahul%20Testimonial.mov?dl=0">
-									img style="width:200px;" src="https://media.licdn.com/media-proxy/ext?w=1024&h=576&f=n&hash=aQsIqb%2BCE0Lpe%2Brbr72O%2F%2FPMHqA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R69hAxUxg4u8KyOtQGz60oIUYfREl_lA2D3qLrWIii0FoOAIuf_ux4JcH5FkEEyJumqQjioS5f2JMqtKJ8kydGwS9SmZwkVeR0kgGdM9YwdOBU3sNK1DPH1PX8egLhAPH_vZ__6bkg6NSg4-enUfw"/ 
+									img style="width:200px;" src="https://media.licdn.com/media-proxy/ext?w=1024&h=576&f=n&hash=aQsIqb%2BCE0Lpe%2Brbr72O%2F%2FPMHqA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R69hAxUxg4u8KyOtQGz60oIUYfREl_lA2D3qLrWIii0FoOAIuf_ux4JcH5FkEEyJumqQjioS5f2JMqtKJ8kydGwS9SmZwkVeR0kgGdM9YwdOBU3sNK1DPH1PX8egLhAPH_vZ__6bkg6NSg4-enUfw"/
 									<p> Testimonial </p>
 								</a>-->
 							</div>
 						</div>
 					</div>
-					<!-- skills -->										
+					<!-- skills -->
 					<div class="col-md-6 first-column">
 						<div class="panel panel-default" id="skills">
-							<div class="panel-heading">								
-								<i class="fa fa-cubes"></i> 
-								Professional Skills							
+							<div class="panel-heading">
+								<i class="fa fa-cubes"></i>
+								Professional Skills
 							</div>
 							<div class="panel-body">
-								<?php //include 'skills.php'; ?>																
-								<div class="col-md-6">
+								<?php //include 'skills.php'; ?>
+								<div class="col-md-5">
 									<h4>Front-End</h4>
 									<ul>
 										<li> Javascript </li>
@@ -205,7 +206,7 @@
 										<li> MS Outlook </li>
 									</ul>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-7">
 									<h4>Core Technologies</h4>
 									<ul>
 										<li> Blockchain </li>
@@ -215,27 +216,30 @@
 									</ul>
 									<h4>Frameworks/CMS</h4>
 									<ul>
+  									<li> django * </li>
+  									<li> <a target="_blank" href="http://rubyonrails.org/">Ruby on Rails</a> </li>
 										<li>
 											<a target="_blank" href="http://book.cakephp.org/2.0/en/index.html">CakePHP 2.x</a>
 										</li>
 										<li>
 											<a target="_blank" href="http://book.cakephp.org/3.0/en/index.html">CakePHP 3.x</a>
 										</li>
-										<li> <a target="_blank" href="http://rubyonrails.org/">Ruby on Rails</a> </li>
 										<li> <a target="_blank" href="https://wordpress.com/">Wordpress</a> </li>
-										<li> Building/Consuming Web Services </li>
+										<li> REST APIs </li>
 									</ul>
-									<!-- <a target="_blank" href=""> -->																		
+									<!-- <a target="_blank" href=""> -->
 									<h4>Databases</h4>
 									<ul>
 										<li> <a target="_blank" href="https://www.mysql.com/">MySQL</a> </li>
 										<li> <a target="_blank" href="https://www.postgresql.org/">Postgre SQL</a> </li>
-										<li> <a target="_blank" href="https://www.mongodb.org/">MongoDB*</a> </li>
+										<li> <a target="_blank" href="https://www.mongodb.org/">MongoDB *</a> </li>
 									</ul>
 									<h4>Web Services Used</h4>
 									<ul>
-										<li> Steem blockchain </li>
-										<li> Ethereum blockchain </li>
+										<li> Steem blockchain
+											<ul><li>steem-python</li><li>steem-js</li></ul>
+										</li>
+										<li> Ethereum blockchain (web3-js) </li>
 										<li> <a target="_blank" href="http://www.ificlaims.com/index.php?page=products_claims_direct&keep_session=181670586">IFI Claims</a> </li>
 										<li> <a target="_blank" href="https://www.lexisnexis.com/webserviceskit/">LexisNexis</a> </li>
 										<li> <a target="_blank" href="http://developer.ebay.com/devzone/XML/docs/reference/ebay/index.html">Ebay</a> </li>
@@ -246,10 +250,11 @@
 										<li> Many more ... </li>
 									</ul>
 								</div>
+								<div class="col-md-12">* Beginner Level</div>
 							</div>
 						</div>
 					</div>
-					<!-- activities -->					
+					<!-- activities -->
 					<div class="col-md-6 second-column">
 						<div class="panel panel-default" id="awards_and_honours">
 							<div class="panel-heading"><i class="fa fa-trophy"></i> Awards and Honours</div>
@@ -258,6 +263,10 @@
 									<tr>
 										<th>Award</th>
 										<th>Month - Year</th>
+									</tr>
+									<tr>
+										<td> Special Recognition by Management </td>
+										<td> Dec 2018 </td>
 									</tr>
 									<tr>
 										<td> Best Project of the year </td>
@@ -269,7 +278,7 @@
 									</tr>
 									<tr>
 										<td> Best Project Team </td>
-										<td> September 2016 </td>
+										<td> Sept 2016 </td>
 									</tr>
 									<tr>
 										<td> Best Project Team </td>
@@ -291,35 +300,35 @@
 							<div class="panel-body">
 								<ul>
 									<li>Co-founder of Technical Club, Mystics in Chitkara University.</li>
-									<li>Student Co-coordinator of Techelone’11, annual inter-university technical fest organized by Chitkara University.</li>
-									<li>Core Member of Organizing Committee for Algorythm’12, annual inter-university cultural fest organized by Chitkara University. Headed Web team and Finance.</li>
+									<li>Student Co-coordinator of Techelone'11, annual inter-university technical fest organized by Chitkara University.</li>
+									<li>Core Member of Organizing Committee for Algorythm'12, annual inter-university cultural fest organized by Chitkara University. Headed Web team and Finance.</li>
 									<li>Participated in Microsoft Dream Spark Yatra held at Punjab University.</li>
 									<li>Participated in a poetry competition organized by NSS.</li>
 								</ul>
 							</div>
 						</div>
 					</div>
-					<!-- thanks -->										
+					<!-- thanks -->
 					<div class="col-md-6 second-column">
 						<div class="alert alert-custom">Thanks for giving your time :)</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		
-		<script type='text/javascript' src='js/jquery.js'></script>				
-		<script src="js/bootstrap.min.js" type="text/javascript"></script>				
-		<script src="js/rb.js" type="text/javascript"></script>				
-		<script type="text/javascript">			
-		$(document).ready(function(){								
-			adjustHome();						
-		});						
-		$(window).resize(function(){								
-			adjustHome();						
-		});				
-		</script>			
-		<!--[if lt IE 9]>					
-		<script src="js/ie.js"></script>				
+
+		<script type='text/javascript' src='js/jquery.js'></script>
+		<script src="js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="js/rb.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		$(document).ready(function(){
+			adjustHome();
+		});
+		$(window).resize(function(){
+			adjustHome();
+		});
+		</script>
+		<!--[if lt IE 9]>
+		<script src="js/ie.js"></script>
 		<![endif]-->
 	</body>
 </html>
