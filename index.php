@@ -72,7 +72,7 @@
 								<div class="col-md-6"><strong>Phone</strong></div>
 								<div class="col-md-6">+91 90 23 852200</div>
 								<div class="col-md-6"><strong>Get Connected</strong></div>
-								<div class="col-md-6"><a alt="Linked-In" target="blank" href="https://in.linkedin.com/in/rahul-bhola-4bbb2b1a"><i class="fa fa-linkedin-square"style="font-size:1.5em"></i> rahul-bhola-4bbb2b1a </a></div>
+								<div class="col-md-6"><a alt="Linked-In" target="blank" href="https://in.linkedin.com/in/rahul-bhola"><i class="fa fa-linkedin-square"style="font-size:1.5em"></i> rahul-bhola-4bbb2b1a </a></div>
 								<div class="col-md-6"><strong>Address</strong></div>
 								<div class="col-md-6">
 									<address>
