@@ -216,7 +216,7 @@
 									</ul>
 									<h4>Frameworks/CMS</h4>
 									<ul>
-  									<li> django * </li>
+  									<li> django </li>
   									<li> <a target="_blank" href="http://rubyonrails.org/">Ruby on Rails</a> </li>
 										<li>
 											<a target="_blank" href="http://book.cakephp.org/2.0/en/index.html">CakePHP 2.x</a>
@@ -239,14 +239,16 @@
 										<li> Steem blockchain
 											<ul><li>steem-python</li><li>steem-js</li></ul>
 										</li>
-										<li> Ethereum blockchain (web3-js) </li>
-										<li> <a target="_blank" href="http://www.ificlaims.com/index.php?page=products_claims_direct&keep_session=181670586">IFI Claims</a> </li>
-										<li> <a target="_blank" href="https://www.lexisnexis.com/webserviceskit/">LexisNexis</a> </li>
-										<li> <a target="_blank" href="http://developer.ebay.com/devzone/XML/docs/reference/ebay/index.html">Ebay</a> </li>
-										<li> <a target="_blank" href="https://developer.hotelbeds.com/">Hotelbeds</a>, <a target="_blank" href="http://roomsxml.com/WSOBranding/Partner/Faq.aspx?SiteId=1&Prev=2">Roomsxml</a>, <a target="_blank" href="https://login.touricoholidays.com/">Tourico</a> </li>
+										<li> Ethereum blockchain
+											<ul><li>Web3.js</li></ul>
+										</li>
 										<li> <a target="_blank" href="https://docs.shopify.com/api/reference">Shopify</a> </li>
 										<li> <a target="_blank" href="https://docs.woothemes.com/document/woocommerce-rest-api/">Woocommerce</a> </li>
-										<li> <a target="_blank" href="https://www.inkling.com/user-documentation/platform-api-guide/">Inkling</a> </li>
+										<li> <a target="_blank" href="http://www.ificlaims.com/index.php?page=products_claims_direct&keep_session=181670586">IFI Claims</a> </li>
+										<li> <a target="_blank" href="https://www.lexisnexis.com/">LexisNexis</a> </li>
+										<li> <a target="_blank" href="http://developer.ebay.com/devzone/XML/docs/reference/ebay/index.html">Ebay</a> </li>
+										<li> <a target="_blank" href="https://developer.hotelbeds.com/">Hotelbeds</a>, <a target="_blank" href="http://roomsxml.com/WSOBranding/Partner/Faq.aspx?SiteId=1&Prev=2">Roomsxml</a>, <a target="_blank" href="https://login.touricoholidays.com/">Tourico</a> </li>
+										<li> <a target="_blank" href="https://www.inkling.com/">Inkling</a> </li>
 										<li> Many more ... </li>
 									</ul>
 								</div>
