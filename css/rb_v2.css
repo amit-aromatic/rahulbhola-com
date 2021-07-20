@@ -31,6 +31,7 @@ body{ background-color: beige; }
 #internships .panel-heading{ background-color:#21C0CD; }
 #education .panel-heading{ background-color:#58CA62; }
 #personal-info .panel-heading, #contact-info .panel-heading{ background-color:#666666; }
+#blockchain-cert .panel-heading, #pmgmt-cert .panel-heading{ background-color:#8a6d3b; }
 #skills .panel-heading{ background-color:#EF9F0F; }
 #activities .panel-heading{ background-color:#D23636; }
 #awards_and_honours .panel-heading{ background-color:#29315d; }
