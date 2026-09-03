@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <title>Subscription Plans | Rahul Bhola</title>
+        <meta name="description" content="Pick your Rahul Bhola subscription tier — from a casual hello to full-blown mentorship and spiritual chats." />
+        <meta name="robots" content="noindex, follow" />
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v7.2.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+
+        <style>
+            @media (min-width: 992px) {
+                body {
+                    padding-left: 0;
+                }
+            }
+            .plans-wrap {
+                max-width: 1140px;
+                margin: 0 auto;
+                padding: 5rem 1.5rem 6rem;
+            }
+            .plans-header {
+                text-align: center;
+                margin-bottom: 3.5rem;
+            }
+            .back-link {
+                display: inline-block;
+                margin-bottom: 1.5rem;
+                font-weight: 600;
+            }
+            .plans-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+                gap: 1.75rem;
+            }
+            .plan-card {
+                border: 1px solid rgba(189, 93, 56, 0.25);
+                border-radius: 14px;
+                padding: 2rem 1.75rem;
+                display: flex;
+                flex-direction: column;
+                background: #fff;
+                box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+                transition: transform 0.2s ease, box-shadow 0.2s ease;
+                position: relative;
+            }
+            .plan-card:hover {
+                transform: translateY(-6px);
+                box-shadow: 0 14px 32px rgba(0, 0, 0, 0.1);
+            }
+            .plan-card.featured {
+                border-color: var(--bs-primary);
+                border-width: 2px;
+                background: rgba(189, 93, 56, 0.04);
+            }
+            .plan-badge {
+                position: absolute;
+                top: -14px;
+                right: 1.5rem;
+                background: var(--bs-primary);
+                color: #fff;
+                font-size: 0.75rem;
+                font-weight: 700;
+                letter-spacing: 0.04em;
+                text-transform: uppercase;
+                padding: 0.3rem 0.75rem;
+                border-radius: 50px;
+            }
+            .plan-icon {
+                font-size: 1.9rem;
+                color: var(--bs-primary);
+                margin-bottom: 0.75rem;
+            }
+            .plan-name {
+                font-weight: 800;
+                font-size: 1.3rem;
+                margin-bottom: 0.15rem;
+            }
+            .plan-tagline {
+                color: var(--bs-primary);
+                font-weight: 700;
+                font-size: 0.95rem;
+                margin-bottom: 1rem;
+            }
+            .plan-desc {
+                color: #444;
+                font-size: 0.95rem;
+                line-height: 1.6;
+                margin-bottom: 1.25rem;
+                flex-grow: 1;
+            }
+            .plan-features {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                font-size: 0.9rem;
+            }
+            .plan-features li {
+                padding: 0.3rem 0;
+                display: flex;
+                align-items: flex-start;
+                gap: 0.5rem;
+            }
+            .plan-features i {
+                color: var(--bs-primary);
+                margin-top: 0.2rem;
+            }
+            .disclaimer {
+                text-align: center;
+                margin-top: 3.5rem;
+                color: #777;
+                font-size: 0.85rem;
+                font-style: italic;
+            }
+        </style>
+    </head>
+    <body id="page-top">
+        <div class="plans-wrap">
+            <div class="plans-header">
+                <a class="back-link js-scroll-trigger" href="index.html"><i class="fas fa-arrow-left me-2"></i>Back to profile</a>
+                <h1 class="mb-2">Rahul Bhola <span class="text-primary">Subscription Plans</span></h1>
+                <p class="lead" style="color:#555;">Not a real product. Just a tongue-in-cheek menu of how much of my time and energy you're signing up for.</p>
+            </div>
+
+            <div class="plans-grid">
+                <!-- Lite -->
+                <div class="plan-card">
+                    <div class="plan-icon"><i class="fas fa-hand-peace"></i></div>
+                    <div class="plan-name">Lite</div>
+                    <div class="plan-tagline">Basic Acquaintance</div>
+                    <p class="plan-desc">We've met, we nod in the hallway, we might even exchange a "hey, how's it going?" once a quarter.</p>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check"></i>Occasional hallway nods</li>
+                        <li><i class="fas fa-check"></i>LinkedIn connection eligible</li>
+                        <li><i class="fas fa-check"></i>Emoji-only reactions</li>
+                    </ul>
+                </div>
+
+                <!-- Standard -->
+                <div class="plan-card">
+                    <div class="plan-icon"><i class="fas fa-comments"></i></div>
+                    <div class="plan-name">Standard</div>
+                    <div class="plan-tagline">Basic Friendship</div>
+                    <p class="plan-desc">Actual conversations, remembered birthdays (maybe), and the occasional coffee catch-up.</p>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check"></i>Everything in Lite</li>
+                        <li><i class="fas fa-check"></i>Real conversations</li>
+                        <li><i class="fas fa-check"></i>Coffee / tea invites</li>
+                        <li><i class="fas fa-check"></i>Meme sharing rights</li>
+                    </ul>
+                </div>
+
+                <!-- Priority -->
+                <div class="plan-card featured">
+                    <div class="plan-badge">Popular</div>
+                    <div class="plan-icon"><i class="fas fa-user-friends"></i></div>
+                    <div class="plan-name">Priority</div>
+                    <div class="plan-tagline">Close Friendship</div>
+                    <p class="plan-desc">You're on speed dial. Late-night calls, honest opinions, and showing up when it matters.</p>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check"></i>Everything in Standard</li>
+                        <li><i class="fas fa-check"></i>Priority response time</li>
+                        <li><i class="fas fa-check"></i>Late-night venting sessions</li>
+                        <li><i class="fas fa-check"></i>Brutally honest advice</li>
+                    </ul>
+                </div>
+
+                <!-- Professional -->
+                <div class="plan-card">
+                    <div class="plan-icon"><i class="fas fa-briefcase"></i></div>
+                    <div class="plan-name">Professional</div>
+                    <div class="plan-tagline">Career &amp; Business Mentorship</div>
+                    <p class="plan-desc">Architecture reviews, career advice, resume roasts and the occasional "should I take this offer?" call.</p>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check"></i>1:1 mentorship sessions</li>
+                        <li><i class="fas fa-check"></i>Architecture / code reviews</li>
+                        <li><i class="fas fa-check"></i>Career & negotiation advice</li>
+                        <li><i class="fas fa-check"></i>Startup / business sanity checks</li>
+                    </ul>
+                </div>
+
+                <!-- Spiritual -->
+                <div class="plan-card">
+                    <div class="plan-icon"><i class="fas fa-brain"></i></div>
+                    <div class="plan-name">Spiritual</div>
+                    <div class="plan-tagline">Self-Awareness &amp; Mental Well-being</div>
+                    <p class="plan-desc">Chanting sessions, mindfulness talks, and company for the quieter, deeper conversations.</p>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check"></i>Chanting & meditation company</li>
+                        <li><i class="fas fa-check"></i>Mindfulness check-ins</li>
+                        <li><i class="fas fa-check"></i>Deep, judgment-free talks</li>
+                        <li><i class="fas fa-check"></i>Self-awareness nudges</li>
+                    </ul>
+                </div>
+
+                <!-- Pro Max -->
+                <div class="plan-card featured">
+                    <div class="plan-badge">Best Value</div>
+                    <div class="plan-icon"><i class="fas fa-crown"></i></div>
+                    <div class="plan-name">Pro Max</div>
+                    <div class="plan-tagline">Priority + Professional + Spiritual</div>
+                    <p class="plan-desc">The full package. Close friendship, career mentorship and spiritual grounding — all bundled, no upsells.</p>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check"></i>Everything in Priority</li>
+                        <li><i class="fas fa-check"></i>Everything in Professional</li>
+                        <li><i class="fas fa-check"></i>Everything in Spiritual</li>
+                        <li><i class="fas fa-check"></i>Unlimited plan switching</li>
+                    </ul>
+                </div>
+            </div>
+
+            <p class="disclaimer">Terms and conditions: friendship cannot actually be bought. This page is for fun — reach out any time via <a href="mailto:rahulbhola.91@gmail.com">email</a> and we'll figure out the tier organically.</p>
+        </div>
+    </body>
+</html>
